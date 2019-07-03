@@ -1139,7 +1139,7 @@ __webpack_require__.r(__webpack_exports__);
 // The list of file replacements can be found in `angular.json`.
 var environment = {
     production: false,
-    apiUrl: "http://35.154.61.191:8080/api"
+    apiUrl: "https://materialized-blog.herokuapp.com/api"
 };
 /*
  * For easier debugging in development mode, you can import the following file
