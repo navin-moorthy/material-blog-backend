@@ -18,7 +18,7 @@
 
 <p align="center">
   <strong>
-  Checkout my site at <a href="https://yelp-camp-campground.herokuapp.com/">YelpCamp Campgrounds</a>
+  Checkout my site at <a href="https://materialized-blog.herokuapp.com">Materialized Blog</a>
   </strong>
 </p>
 
